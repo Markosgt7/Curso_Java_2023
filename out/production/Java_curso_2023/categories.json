@@ -1,0 +1,28 @@
+{
+  "categorias": [
+    {
+      "nombre": "Deporte",
+      "descripcion": "Preguntas relacionadas con deportes y atletismo."
+    },
+    {
+      "nombre": "Cultura",
+      "descripcion": "Preguntas relacionadas con arte, música y literatura."
+    },
+    {
+      "nombre": "Cine",
+      "descripcion": "Preguntas relacionadas con películas, actores y directores."
+    },
+    {
+      "nombre": "Arte",
+      "descripcion": "Preguntas relacionadas con pintura, escultura y arquitectura."
+    },
+    {
+      "nombre": "Historia",
+      "descripcion": "Preguntas relacionadas con eventos históricos y personajes famosos."
+    },
+    {
+      "nombre": "Ciencia y Tecnología",
+      "descripcion": "Preguntas relacionadas con avances científicos y tecnológicos."
+    }
+  ]
+}

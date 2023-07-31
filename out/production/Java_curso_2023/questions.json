@@ -1,0 +1,22 @@
+{
+  "preguntas": [
+    {
+      "enunciado": "¿Cuál es la capital de Francia?",
+      "opciones": ["Londres", "París", "Madrid", "Berlín"],
+      "respuesta_correcta": 1,
+      "explicacion": "La respuesta correcta es París, ya que es la capital de Francia. Londres es la capital del Reino Unido, Madrid es la capital de España y Berlín es la capital de Alemania."
+    },
+    {
+      "enunciado": "¿Cuál es el río más largo del mundo?",
+      "opciones": ["Nilo", "Amazonas", "Yangtsé", "Misisipi"],
+      "respuesta_correcta": 0,
+      "explicacion": "La respuesta correcta es el Nilo, ya que es el río más largo del mundo. El Amazonas es el segundo río más largo, seguido por el Yangtsé y el Misisipi."
+    },
+    {
+      "enunciado": "¿Cuál es el elemento químico con el número atómico 6?",
+      "opciones": ["Hidrógeno", "Carbono", "Oxígeno", "Nitrógeno"],
+      "respuesta_correcta": 1,
+      "explicacion": "La respuesta correcta es Carbono, ya que su número atómico es 6. El hidrógeno tiene número atómico 1, el oxígeno tiene número atómico 8 y el nitrógeno tiene número atómico 7."
+    }
+  ]
+}
