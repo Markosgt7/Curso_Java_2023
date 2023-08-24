@@ -5,13 +5,10 @@ public class gen {
         //generar contraseñas
         String nuevoPassword = generarPass();
         System.out.println(nuevoPassword);
-
-
     }
     private static String generarPass(){
         double aleatorio = Math.random()*10000000;
-        long numAleatorio = Math.round(aleatorio);
-        String passwordCreated="abcCDdD"+ numAleatorio;
+        String passwordCreated="abcCDdD"+ aleatorio;
         return  passwordCreated;
     }
 
